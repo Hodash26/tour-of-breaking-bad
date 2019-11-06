@@ -1,0 +1,23 @@
+h2 {
+    color: green;
+}
+
+li {
+    width: 25%;
+    color: orange;
+    border-radius: 5px;
+    background-color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 23px;
+    font-weight: bold;
+}
+span {
+    font-size: 25px;
+    margin-right: 4.5rem;
+    padding-left: 5px;
+}
+
+li.selected {
+    background-color: brown;
+}
