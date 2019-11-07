@@ -1,0 +1,12 @@
+.width {
+    background-color: white;
+    width: 300px;
+    padding-left: 3px;
+    padding-bottom: 5px;
+    border: 2px solid orange;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
